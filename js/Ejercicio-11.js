@@ -18,4 +18,7 @@ if (a % 7 === 0) {
 }
 if (div==false){
   document.writeln(`El numero ${a} no es divisible por 2, 3, 5 o 7 <br>`); 
+} else {
+  document.writeln(`El Numero ${a} no es divisible por 2, 3, 5 ni 7`);
 }
+
